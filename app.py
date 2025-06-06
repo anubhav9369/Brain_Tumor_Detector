@@ -9,7 +9,7 @@ app = Flask(__name__)
 CORS(app)  # ← Enable CORS for all routes
 
 # Load TFLite model
-interpreter = tf.lite.Interpreter(model_path="/Users/anubhavverma/Desktop/BrainTumorDetector/brain_tumor_model.tflite")
+interpreter = tf.lite.Interpreter(model_path="brain_tumor_model.tflite")
 interpreter.allocate_tensors()
 
 # Get input/output details
