@@ -3,8 +3,6 @@
 This is a deep learning-based web application for detecting brain tumors using MRI images. The model is trained on MRI scan datasets, converted to TensorFlow Lite (`.tflite`) format for lightweight inference, and deployed using a Flask web server with a simple HTML/CSS/JS frontend.
 
 ## 🚀 Demo
-📌 [Link to live demo (optional if hosted)](https://yourappurl.com)  
-📸 Upload an MRI scan to detect if a brain tumor is present.
 
 <img width="603" alt="Screenshot 2025-06-07 at 13 23 15" src="https://github.com/user-attachments/assets/07dd587e-ac3f-46d1-8cb3-6f09fe8105fc" />
 <img width="629" alt="image" src="https://github.com/user-attachments/assets/98e1b252-6d76-4102-ac38-02d2340ed45f" />
