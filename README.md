@@ -37,7 +37,7 @@ python3 -m venv venv
 source venv/bin/activate        # on Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-###🔹 3. Run the app
+### 🔹 3. Run the app
 bash
 Copy
 Edit
